@@ -1,2 +1,2 @@
 # mlops
-This is mlops camp for me
+This is mlops camp
